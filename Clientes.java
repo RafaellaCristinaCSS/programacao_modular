@@ -1,4 +1,4 @@
-package trabalho;
+package arquivo.leitura;
 
 class Cliente {
     private String matricula;    
