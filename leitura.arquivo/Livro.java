@@ -1,4 +1,4 @@
-package trabalho;
+package arquivo.leitura;
 
  class Livro {
     private String codigo;
